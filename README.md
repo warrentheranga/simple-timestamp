@@ -3,6 +3,7 @@
 > Get a simple timestamp
 
 Fast as it doesn't have bloated methods.
+Updated to an output I'm a bit more used to ;)
 
 
 ## Install
@@ -24,7 +25,7 @@ simpleTimestamp();
 ```sh
 $ npm install --global simple-timestamp
 $ simple-timestamp
-2015.05.20.14.36.09
+2015-05-20 14:36:09
 ```
 
 
